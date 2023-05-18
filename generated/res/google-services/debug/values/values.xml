@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">878060926735-0i292o9uhgnj0aee2eo7s1rukndd86db.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">878060926735</string>
+    <string name="google_api_key" translatable="false">AIzaSyDKpRMWCFJpIoBSGmcxP2JJssjDSXsKi7I</string>
+    <string name="google_app_id" translatable="false">1:878060926735:android:c97234a844dbe099f4b07a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDKpRMWCFJpIoBSGmcxP2JJssjDSXsKi7I</string>
+    <string name="google_storage_bucket" translatable="false">shiba-7d28b.appspot.com</string>
+    <string name="project_id" translatable="false">shiba-7d28b</string>
+</resources>
